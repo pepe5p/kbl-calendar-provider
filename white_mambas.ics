@@ -1,0 +1,122 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Piotr Karaś//KBL Calendar Provider//1.0.0
+CALSCALE:GREGORIAN
+X-PUBLISHED-TTL:PT12H
+X-WR-CALNAME:KBL CTF WHITE MAMBAS
+X-WR-TIMEZONE:Europe/Warsaw
+BEGIN:VEVENT
+SUMMARY:KBL: CTF WHITE MAMBAS vs KADET U-19
+DTSTART:20241109T123000
+DTEND:20241109T140000
+DESCRIPTION:CTF WHITE MAMBAS 84 - 41 KADET U-19\nVideo: https://youtube.co
+ m/live/jWeGwP-QO_Q?feature=share\nPhotos: https://photos.app.goo.gl/fDXeVn
+ j7MPqnFAVq7\nReport: https://turniej-generator.pl/img/users_media/1625/fib
+ a_box_score_ctf_vs_u19_09_listopada.pdf
+LOCATION:HALA SP nr 8
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:KBL: CTF WHITE MAMBAS vs THE LEGENDS
+DTSTART:20241011T190000
+DTEND:20241011T203000
+DESCRIPTION:CTF WHITE MAMBAS 74 - 87 THE LEGENDS\nVideo: https://www.youtu
+ be.com/live/bheKuRfvX5c\nPhotos: https://photos.app.goo.gl/V2BJGGEtTBE13qE
+ a9\nReport: https://turniej-generator.pl/img/users_media/1625/1_fiba_box_s
+ core_ctf_vs_the_11_pazdziernika24.pdf
+LOCATION:HALA SP nr 8
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:KBL: CTF WHITE MAMBAS vs SEATTLE Supersonics
+DTSTART:20241116T130000
+DTEND:20241116T143000
+DESCRIPTION:CTF WHITE MAMBAS 72 - 55 SEATTLE Supersonics\nVideo: https://y
+ outube.com/live/f1yJQDTGM9Y?feature=share\nPhotos: https://photos.app.goo.
+ gl/sgCQeH9A2P2V68Qw8\nReport: https://turniej-generator.pl/img/users_media
+ /1625/fiba_box_score_ctf_vs_sea_17_listopada.pdf
+LOCATION:HALA SP nr 8
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:KBL: CTF WHITE MAMBAS vs CLEVELAND CAVALIERS
+DTSTART:20241123T120000
+DTEND:20241123T133000
+DESCRIPTION:CTF WHITE MAMBAS 123 - 75 CLEVELAND CAVALIERS\nVideo: https://
+ youtube.com/live/pQznOGUJDNI?feature=share\nReport: https://turniej-genera
+ tor.pl/img/users_media/1625/fiba_box_score_bms_vs_cle_23_listopada.pdf
+LOCATION:HALA SP nr 8
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:KBL: SALEZJANIE vs CTF WHITE MAMBAS
+DTSTART:20241129T183000
+DTEND:20241129T200000
+DESCRIPTION:SALEZJANIE 28 - 157 CTF WHITE MAMBAS\nVideo: https://youtube.c
+ om/live/0LVinzJGlHI?feature=share\nPhotos: https://photos.app.goo.gl/zWF5b
+ YTXSz27JGGo9\nReport: https://turniej-generator.pl/img/users_media/1625/fi
+ ba_box_score_sal_vs_bms_29_listopada.pdf
+LOCATION:HALA SP nr 8
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:KBL: Boston Celtics vs CTF WHITE MAMBAS
+DTSTART:20250110T184500
+DTEND:20250110T201500
+DESCRIPTION:Boston Celtics 66 - 128 CTF WHITE MAMBAS\nVideo: https://youtu
+ be.com/live/Ic5MWwC6DU4?feature=share\nPhotos: https://photos.app.goo.gl/y
+ FWpcNmmnUXX5KSi8\nReport: https://turniej-generator.pl/img/users_media/162
+ 5/fiba_box_score_bos_vs_wms_10_stycznia.pdf
+LOCATION:HALA SP nr 8
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:KBL: KADET U-19 vs CTF WHITE MAMBAS
+DTSTART:20250208T120000
+DTEND:20250208T133000
+DESCRIPTION:KADET U-19 84 - 80 CTF WHITE MAMBAS\nVideo: https://youtube.co
+ m/live/xG-cxgpIw-Y?feature=share\nPhotos: https://photos.app.goo.gl/qsfQ8b
+ LSAYirYxM9A\nReport: https://turniej-generator.pl/img/users_media/1625/sta
+ tystyki_fiba_kau_vs_cwm_08_lutego.pdf
+LOCATION:HALA SP Nr 8
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:KBL: SEATTLE Supersonics vs CTF WHITE MAMBAS
+DTSTART:20250117T183000
+DTEND:20250117T200000
+DESCRIPTION:SEATTLE Supersonics 83 - 92 CTF WHITE MAMBAS\nVideo: https://y
+ outube.com/live/ZawvLuPC0Xo?feature=share\nReport: https://turniej-generat
+ or.pl/img/users_media/1625/fiba_box_score_sea_vs_wms_17_stycznia.pdf
+LOCATION:HALA SP Nr 8
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:KBL: CTF WHITE MAMBAS vs THE LEGENDS
+DTSTART:20250215T121500
+DTEND:20250215T134500
+DESCRIPTION:CTF WHITE MAMBAS 62 - 76 THE LEGENDS\nVideo: https://youtube.c
+ om/live/fz_DnFBwm8c?feature=share\nPhotos: https://photos.app.goo.gl/xevxX
+ ZDUnA1iMDax6\nReport: https://turniej-generator.pl/img/users_media/1625/st
+ atystyki_fiba_ctf_vs_leg_15_lutego-1.pdf
+LOCATION:HALA SP Nr 8 ul. Słowackiego 41
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:KBL: CLEVELAND CAVALIERS vs CTF WHITE MAMBAS
+DTSTART:20250307T183000
+DTEND:20250307T200000
+DESCRIPTION:CLEVELAND CAVALIERS 56 - 78 CTF WHITE MAMBAS\nVideo: https://y
+ outube.com/live/GTDPVSHAyso?feature=share\nPhotos: https://photos.app.goo.
+ gl/Fkf52z1z4vNEKv5B9\nReport: https://turniej-generator.pl/img/users_media
+ /1625/protocol_5120.pdf
+LOCATION:HALA SP Nr 8
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:KBL: CTF WHITE MAMBAS vs SALEZJANIE
+DTSTART:20250314T183000
+DTEND:20250314T200000
+DESCRIPTION:CTF WHITE MAMBAS 79 - 40 SALEZJANIE\nVideo: https://youtube.co
+ m/live/ZBglGA1L7Rc?feature=share\nReport: https://turniej-generator.pl/img
+ /users_media/1625/protocol_5123.pdf
+LOCATION:HALA SP Nr 8
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:KBL: CTF WHITE MAMBAS vs Boston Celtics
+DTSTART:20250411T183000
+DTEND:20250411T200000
+DESCRIPTION:CTF WHITE MAMBAS - Boston Celtics
+LOCATION:None
+END:VEVENT
+END:VCALENDAR
